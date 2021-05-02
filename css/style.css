@@ -1980,3 +1980,8 @@ span.border.two:after {
 		padding: 6px 0;
 	}
 }
+@media only screen and (max-width: 768px) {
+  .year-info {
+    display: none;
+  }
+}
